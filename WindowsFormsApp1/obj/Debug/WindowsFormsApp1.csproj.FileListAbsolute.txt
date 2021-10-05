@@ -1,0 +1,30 @@
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Мой диск\~~4 Курс\Моделирование\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ilya\Desktop\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\4 курс\C-_model-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\4 курс\C-_model-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\4 курс\C-_model-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\4 курс\C-_model-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
